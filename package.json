@@ -1,0 +1,11 @@
+{
+  "name": "worker-threads",
+  "version": "1.0.0",
+  "description": "worker threads demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Harry Manchanda <IamManchanda>",
+  "license": "MIT"
+}
